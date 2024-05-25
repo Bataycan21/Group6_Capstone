@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:title="GPU"
+        android:icon="@drawable/baseline_home_24"/>
+
+    <item
+        android:id="@+id/computer"
+        android:title="Monitor"
+        android:icon="@drawable/baseline_monitor_24"/>
+
+    <item
+        android:id="@+id/fab"
+        android:title=""
+        android:enabled="false"/>
+
+    <item
+        android:id="@+id/mouse"
+        android:title="RAM"
+        android:icon="@drawable/baseline_mouse_24"/>
+
+    <item
+        android:id="@+id/cart"
+        android:title="CPU"
+        android:icon="@drawable/baseline_add_shopping_cart_24"/>
+
+
+</menu>
